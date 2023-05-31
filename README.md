@@ -18,6 +18,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 
