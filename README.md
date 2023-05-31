@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/DimitrisPok/dimitrispok/master/profile-pic.gif)
 
-### Languages
+### Languages 
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -23,6 +23,9 @@
 
 ### Full Stack Projects
 
+[![](https://img.shields.io/badge/-👨‍💻%20Embedded%20Systems%20in%20C-000)](https://github.com/DimitrisPok/Embedded-Systems-in-C)
+[![](https://img.shields.io/badge/-🧱%20Vue/JavaScript%20BrickLand-000)](https://github.com/DimitrisPok/Vue-JavaScript-BrickLand)
+[![](https://img.shields.io/badge/-🏎️%20Arduino/Android%20Car%20Application-000)](https://github.com/DimitrisPok/Arduino-Android-Car-Application)
 
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=DimitrisPok&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,b1cee8,fff3db,e7f0f8,52fa5a&theme=graywhite" /> 
