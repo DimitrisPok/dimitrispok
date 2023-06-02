@@ -23,7 +23,7 @@
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🧱%20Vue/JavaScript%20BrickLand-000)](https://github.com/DimitrisPok/BrickLand)
+[![](https://img.shields.io/badge/-🧱%20Vue/JavaScript%20BrickLand-000)](https://github.com/DimitrisPok/Vue-JavaScript-BrickLand)
 [![](https://img.shields.io/badge/-🏎️%20Arduino/Android%20Car%20Application-000)](https://github.com/DimitrisPok/Arduino-Android-Car-Application)
 
 
