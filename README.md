@@ -1,5 +1,12 @@
 ![](https://raw.githubusercontent.com/DimitrisPok/dimitrispok/master/profile-pic.gif)
 
+### Tools
+[![Autodesk Maya Badge](https://img.shields.io/badge/Autodesk%20Maya-37A5CC?logo=autodeskmaya&logoColor=fff&style=for-the-badge)](https://www.autodesk.com/products/maya/overview)
+[![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
+[![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
+[![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
+[![Autodesk Badge](https://img.shields.io/badge/Autodesk-000?logo=autodesk&logoColor=fff&style=for-the-badge)](https://www.autodesk.com/)
+
 ### Languages 
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 [![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
